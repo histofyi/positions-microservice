@@ -1,0 +1,12 @@
+{
+    "class_i_peptide":{"label":"Peptide"},
+    "p1":{"label":"Position 1 (N-terminus)"},
+    "p2":{"label":"Position 2"},
+    "p3":{"label":"Position 3"},
+    "p4":{"label":"Position 4"},
+    "p5":{"label":"Position 5"},
+    "pC-3":{"label":"Position C-3"},
+    "pC-2":{"label":"Position C-2"},
+    "pC-1":{"label":"Position C-1"},
+    "pC":{"label":"Position C (C-terminus)"}
+}
