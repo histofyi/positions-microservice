@@ -1,0 +1,23 @@
+{
+    "class_i_peptide":{"label":"Class I bound peptide backbone"},
+    "class_i_p1":{"label":"Class I bound peptide Position 1 (N-terminal residue)"},
+    "class_i_p2":{"label":"Class I bound peptide Position 2"},
+    "class_i_p3":{"label":"Class I bound peptide Position 3"},
+    "class_i_p4":{"label":"Class I bound peptide Position 4"},
+    "class_i_p5":{"label":"Class I bound Peptide Position 5"},
+    "class_i_pc-3":{"label":"Class I bound peptide Position C-3"},
+    "class_i_pc-2":{"label":"Class I bound peptide Position C-2"},
+    "class_i_pc-1":{"label":"Class I bound peptide Position C-1"},
+    "class_i_pc":{"label":"Class I bound peptide Position C (C-terminal residue)"},
+    "cd8":{"label":""},
+    "tcr_a_cdr1":{"label":"T-cell receptor Alpha chain CDR1 loop"},
+    "tcr_a_cdr2":{"label":"T-cell receptor Alpha chain CDR2 loop"},
+    "tcr_a_cdr3":{"label":"T-cell receptor Alpha chain CDR3 loop"},
+    "tcr_b_cdr1":{"label":"T-cell receptor Beta chain CDR1 loop"},
+    "tcr_b_cdr2":{"label":"T-cell receptor Beta chain CDR2 loop"},
+    "tcr_b_cdr3":{"label":"T-cell receptor Beta chain CDR3 loop"},
+    "beta2m":{"label":"Beta 2 microglobulin"},
+    "tapasin":{"label":""},
+    "tapbpr":{"label":""},
+    "erp57":{"label":""}
+}
